@@ -2,7 +2,7 @@
 /**
  *selection_sort - Sorts an array using the selection sort algorithm.
  *
- *@array: Array to be sorted.
+ *@array: Array to use.
  *@size: Size of the array.
  *
  */
